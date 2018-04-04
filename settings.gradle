@@ -1,1 +1,1 @@
-include ':app', ':commonModule', ':aModule', ':bModule'
+include ':app', ':commonModule', ':aModule', ':bModule', ':ioc-annotation', ':ioc-compiler'
